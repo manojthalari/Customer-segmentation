@@ -1,7 +1,7 @@
 # Customer-segmentation
 Segment customers based on buying behavior by applying k-means clustering algorithm to calculate the optimal number of customer segments with similar buying habits (features)
 Customer-segmentation-and-consumer-behavior-analysis
-(Please click on the Consumer buying behavior - Paul.ipynb above to see the detailed application of analytics and its interpretation)
+(Please click on the Consumer buying behavior -  .ipynb above to see the detailed application of analytics and its interpretation)
 Brief Snapshot:
 Topic # 1:
 Segmenting consumer based buying behavior and applying 80/20 rule to identify top customers/products/geographic locations driving 80% of total $ sales
