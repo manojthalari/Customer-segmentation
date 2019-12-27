@@ -106,3 +106,5 @@ UK alone results in 82% of total $ revenue which is expected for a UK based reta
 
 ### Business Strategy:
 The senior management for the retail company should consider expanding to the other countries (after UK) where they have significant sales such as Neatherland, EIRE, Germany & France for future geographic expansion.
+
+
