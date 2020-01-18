@@ -83,6 +83,7 @@ Delicassen: Segnment # 2 on average makes most purchases, followed by Segmnet # 
 
 1084 out of total 3877, top 25% of customer segments result in 79% of total $ sales amount.
 
+
 ![image](https://user-images.githubusercontent.com/38769913/51401094-f92a2f80-1b17-11e9-9772-da123b92844f.png)
 
 
