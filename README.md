@@ -77,7 +77,7 @@ Delicassen: Segnment # 2 on average makes most purchases, followed by Segmnet # 
 
 
 ## Snapshots of few Analysis: 
-(Detailed analysis shown in Consumer buying behavior - Paul.ipynb file)
+(Detailed analysis shown in Consumer buying behavior.ipynb file)
 
 ### Customers:
 
